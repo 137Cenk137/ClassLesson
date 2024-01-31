@@ -28,9 +28,9 @@ class Employee{
 
     public void CallInformation(){
         Console.WriteLine($"id : {Id}");
-         Console.WriteLine($"name: {Name}");
-          Console.WriteLine($"surname : {LastName}");
-           Console.WriteLine($"Departman : {Departman}");
+        Console.WriteLine($"name: {Name}");
+        Console.WriteLine($"surname : {LastName}");
+        Console.WriteLine($"Departman : {Departman}");
            
 
     }
