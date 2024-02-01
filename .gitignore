@@ -11,3 +11,11 @@ Static-Kavrami/Static-Kavrami.csproj
 Static-Kavrami/Static-Kavrami.sln
 Encapsulaiton/bin
 Encapsulaiton/Encapsulaiton.sln
+enum/bin
+enum/obj
+enum/enum.sln
+enum/enum.csproj
+Inheritance/bin
+Inheritance/obj
+Inheritance/Inheritance.csproj
+Inheritance/Inheritance.sln
