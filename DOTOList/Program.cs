@@ -3,6 +3,7 @@
     private static void Main(string[] args)
     {
         Board board= new Board();
-        board.KartEkle();
+        board.KartTaşı();
+        board.BoardListeleme();
     }
 }

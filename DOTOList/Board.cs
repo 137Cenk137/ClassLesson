@@ -61,26 +61,112 @@ class Board {
     public Card GetFindtitle(string title){
         return CardList.Find(x => x.Baslik == title);
     }
-    public void KartGüncelle(){
-        
-    }
     public void KartSil(){
+        bool isContunie = false;
+        while(!isContunie){
+
         Console.Write("Öncelikle silmek istediğiniz kartı seçmeniz gerekiyor.\nLütfen kart başlığını yazınız: ");
         string baslik = Console.ReadLine();
          var x = GetFindtitle(baslik);
         if(x == null ){
             Console.WriteLine("böyle bir baslik yok");
+            Console.Write("Aradığınız krtiterlere uygun kart board'da bulunamadı. Lütfen bir seçim yapınız. \n * Silmeyi sonlandırmak için : (1)\n* Yeniden denemek için : (2) \n :");
+            int caseOfcontumie = int.Parse(Console.ReadLine()); 
+            if (caseOfcontumie == 1){
+                isContunie = true;
+            }
+            else{
+                continue;
+            }
+
+
         }
         else{
              CardList.Remove(x);
+             isContunie = true;
         }
+        }
+       
     }
     
     public void KartTaşı(){
-        
+         bool isContunie = false;
+        while(!isContunie){
+
+        Console.Write("Öncelikle degistimek istediğiniz kartı seçmeniz gerekiyor.\nLütfen kart başlığını yazınız: ");
+        string baslik = Console.ReadLine();
+         var card = GetFindtitle(baslik);
+        if(card == null ){
+            Console.WriteLine("böyle bir baslik yok");
+            Console.Write("Aradığınız krtiterlere uygun kart board'da bulunamadı. Lütfen bir seçim yapınız.\n * İşlemi sonlandırmak için : (1)\n* Yeniden denemek için : (2) \n :");
+            int caseOfcontumie = int.Parse(Console.ReadLine()); 
+            if (caseOfcontumie == 1){
+                isContunie = true;
+            }
+            else{
+                continue;
+            }
+
+
+        }
+        else{
+             Console.Write($"Bulunan Kart Bilgileri: \n ************************************** Başlık :{card.Baslik} İçerik :{card.Icerik} Atanan Kişi :{card.Kisi.Name} Büyüklük :{card.Boyut} Line :{card.Type}\n  Lütfen taşımak istediğiniz Line'ı seçiniz: (1) TODO (2) IN PROGRESS (3) DONE");
+            int caseOfcontumie = int.Parse(Console.ReadLine()); 
+            switch (caseOfcontumie)
+            {
+                case 1 :
+                    card.Type = Type.TODO;
+                    break;
+                case 2:
+                    card.Type = Type.INPROGRESS;
+                    break;
+                 case 3:
+                    card.Type = Type.DONE;
+                    break;
+                
+                
+                
+            }
+            isContunie = true;
+        }
+        }
     }
     public void BoardListeleme(){
-        
+        for (int i = 0; i < CardList.Count; i++)
+        {
+            switch (CardList[i].Type)
+            {
+                case Type.TODO:
+                    Console.WriteLine("TODO Line");
+                    Console.WriteLine(" ************************");
+                    Console.WriteLine($" Başlık      :{CardList[i].Baslik}");
+                    Console.WriteLine($" İçerik      :{CardList[i].Icerik}");
+                    Console.WriteLine($" Atanan Kişi :{CardList[i].Kisi.Name}");
+                    Console.WriteLine($" Büyüklük    :{CardList[i].Boyut}");
+                    Console.WriteLine("-----------------------------------");
+
+                    break;
+                case Type.INPROGRESS:
+                    Console.WriteLine(" IN PROGRESS Line");
+                    Console.WriteLine(" ************************");
+                    Console.WriteLine($" Başlık      :{CardList[i].Baslik}");
+                    Console.WriteLine($" İçerik      :{CardList[i].Icerik}");
+                    Console.WriteLine($" Atanan Kişi :{CardList[i].Kisi.Name}");
+                    Console.WriteLine($" Büyüklük    :{CardList[i].Boyut}");
+                    Console.WriteLine("-----------------------------------");
+
+                    break;
+                case Type.DONE:
+                    Console.WriteLine(" Done");
+                    Console.WriteLine(" ************************ \n Boş");
+                    
+                    break;
+                default:
+                    Console.WriteLine("Liste bos");
+                    break;
+               
+            }
+        }
     }
 
 }
