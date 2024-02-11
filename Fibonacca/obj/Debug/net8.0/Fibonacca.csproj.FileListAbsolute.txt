@@ -1,0 +1,15 @@
+/Users/cenkkiran/Desktop/C#/Pratikler/ClassLesson/Fibonacca/bin/Debug/net8.0/Fibonacca
+/Users/cenkkiran/Desktop/C#/Pratikler/ClassLesson/Fibonacca/bin/Debug/net8.0/Fibonacca.deps.json
+/Users/cenkkiran/Desktop/C#/Pratikler/ClassLesson/Fibonacca/bin/Debug/net8.0/Fibonacca.runtimeconfig.json
+/Users/cenkkiran/Desktop/C#/Pratikler/ClassLesson/Fibonacca/bin/Debug/net8.0/Fibonacca.dll
+/Users/cenkkiran/Desktop/C#/Pratikler/ClassLesson/Fibonacca/bin/Debug/net8.0/Fibonacca.pdb
+/Users/cenkkiran/Desktop/C#/Pratikler/ClassLesson/Fibonacca/obj/Debug/net8.0/Fibonacca.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cenkkiran/Desktop/C#/Pratikler/ClassLesson/Fibonacca/obj/Debug/net8.0/Fibonacca.AssemblyInfoInputs.cache
+/Users/cenkkiran/Desktop/C#/Pratikler/ClassLesson/Fibonacca/obj/Debug/net8.0/Fibonacca.AssemblyInfo.cs
+/Users/cenkkiran/Desktop/C#/Pratikler/ClassLesson/Fibonacca/obj/Debug/net8.0/Fibonacca.csproj.CoreCompileInputs.cache
+/Users/cenkkiran/Desktop/C#/Pratikler/ClassLesson/Fibonacca/obj/Debug/net8.0/Fibonacca.sourcelink.json
+/Users/cenkkiran/Desktop/C#/Pratikler/ClassLesson/Fibonacca/obj/Debug/net8.0/Fibonacca.dll
+/Users/cenkkiran/Desktop/C#/Pratikler/ClassLesson/Fibonacca/obj/Debug/net8.0/refint/Fibonacca.dll
+/Users/cenkkiran/Desktop/C#/Pratikler/ClassLesson/Fibonacca/obj/Debug/net8.0/Fibonacca.pdb
+/Users/cenkkiran/Desktop/C#/Pratikler/ClassLesson/Fibonacca/obj/Debug/net8.0/Fibonacca.genruntimeconfig.cache
+/Users/cenkkiran/Desktop/C#/Pratikler/ClassLesson/Fibonacca/obj/Debug/net8.0/ref/Fibonacca.dll
