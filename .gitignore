@@ -14,6 +14,12 @@ Encapsulaiton/Encapsulaiton.sln
 enum/bin
 enum/obj
 enum/enum.sln
+ucgen/bin
+
+ucgen/obj
+ucgen/ucgen.csproj
+
+
 enum/enum.csproj
 Inheritance/bin
 Inheritance/obj

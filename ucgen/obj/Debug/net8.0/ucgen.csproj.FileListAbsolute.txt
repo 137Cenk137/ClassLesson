@@ -1,0 +1,15 @@
+/Users/cenkkiran/Desktop/C#/Pratikler/ClassLesson/ucgen/bin/Debug/net8.0/ucgen
+/Users/cenkkiran/Desktop/C#/Pratikler/ClassLesson/ucgen/bin/Debug/net8.0/ucgen.deps.json
+/Users/cenkkiran/Desktop/C#/Pratikler/ClassLesson/ucgen/bin/Debug/net8.0/ucgen.runtimeconfig.json
+/Users/cenkkiran/Desktop/C#/Pratikler/ClassLesson/ucgen/bin/Debug/net8.0/ucgen.dll
+/Users/cenkkiran/Desktop/C#/Pratikler/ClassLesson/ucgen/bin/Debug/net8.0/ucgen.pdb
+/Users/cenkkiran/Desktop/C#/Pratikler/ClassLesson/ucgen/obj/Debug/net8.0/ucgen.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cenkkiran/Desktop/C#/Pratikler/ClassLesson/ucgen/obj/Debug/net8.0/ucgen.AssemblyInfoInputs.cache
+/Users/cenkkiran/Desktop/C#/Pratikler/ClassLesson/ucgen/obj/Debug/net8.0/ucgen.AssemblyInfo.cs
+/Users/cenkkiran/Desktop/C#/Pratikler/ClassLesson/ucgen/obj/Debug/net8.0/ucgen.csproj.CoreCompileInputs.cache
+/Users/cenkkiran/Desktop/C#/Pratikler/ClassLesson/ucgen/obj/Debug/net8.0/ucgen.sourcelink.json
+/Users/cenkkiran/Desktop/C#/Pratikler/ClassLesson/ucgen/obj/Debug/net8.0/ucgen.dll
+/Users/cenkkiran/Desktop/C#/Pratikler/ClassLesson/ucgen/obj/Debug/net8.0/refint/ucgen.dll
+/Users/cenkkiran/Desktop/C#/Pratikler/ClassLesson/ucgen/obj/Debug/net8.0/ucgen.pdb
+/Users/cenkkiran/Desktop/C#/Pratikler/ClassLesson/ucgen/obj/Debug/net8.0/ucgen.genruntimeconfig.cache
+/Users/cenkkiran/Desktop/C#/Pratikler/ClassLesson/ucgen/obj/Debug/net8.0/ref/ucgen.dll
