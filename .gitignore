@@ -15,11 +15,13 @@ enum/bin
 enum/obj
 enum/enum.sln
 ucgen/bin
-
+circle/bin
+circle/circle.sln
+circle/circle.csproj
+circle/obj
 ucgen/obj
 ucgen/ucgen.csproj
-
-
+ucgen/ucgen.csproj
 enum/enum.csproj
 Inheritance/bin
 Inheritance/obj
