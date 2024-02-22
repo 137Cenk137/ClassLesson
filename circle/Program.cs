@@ -10,19 +10,38 @@ public class DrawCircle{
         Console.Write("yarıcapi giriniz: ");
         int lengthOfCircle = Convert.ToInt32(Console.ReadLine());  
 
-        for (int i = 1; i < lengthOfCircle*2; i++)//y
+        for (int i = 1; i < lengthOfCircle; i++)//y
         {
-            for (int j = 1;j < lengthOfCircle*2; j++){//x
+            for (int j = 1;j < lengthOfCircle*2; j++ ){//x
 
-                if (lengthOfCircle<j && lengthOfCircle+i>j){
+                
+                if (lengthOfCircle-i<j && lengthOfCircle+i>j){
                     Console.Write("*");
                 }
                 else{
                     Console.Write("-");
                 }
             }
-            Console.WriteLine();
+
+            Console.WriteLine(); 
+        }
+
+         for (int i = lengthOfCircle; i >0; i--)
+        {
+            for (int j = 1;j < lengthOfCircle*2; j++ ){//x
+
+                
+                if (lengthOfCircle-i<j && lengthOfCircle+i>j){
+                    Console.Write("*");
+                }
+                else{
+                    Console.Write("-");
+                }
+            }
+
+            Console.WriteLine(); 
         }
     }
+    
 
 }
