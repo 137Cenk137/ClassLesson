@@ -1,0 +1,15 @@
+/Users/cenkkiran/Desktop/C#/Pratikler/ClassLesson/İndexAlgoritması/bin/Debug/net8.0/İndexAlgoritması
+/Users/cenkkiran/Desktop/C#/Pratikler/ClassLesson/İndexAlgoritması/bin/Debug/net8.0/İndexAlgoritması.deps.json
+/Users/cenkkiran/Desktop/C#/Pratikler/ClassLesson/İndexAlgoritması/bin/Debug/net8.0/İndexAlgoritması.runtimeconfig.json
+/Users/cenkkiran/Desktop/C#/Pratikler/ClassLesson/İndexAlgoritması/bin/Debug/net8.0/İndexAlgoritması.dll
+/Users/cenkkiran/Desktop/C#/Pratikler/ClassLesson/İndexAlgoritması/bin/Debug/net8.0/İndexAlgoritması.pdb
+/Users/cenkkiran/Desktop/C#/Pratikler/ClassLesson/İndexAlgoritması/obj/Debug/net8.0/İndexAlgoritması.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cenkkiran/Desktop/C#/Pratikler/ClassLesson/İndexAlgoritması/obj/Debug/net8.0/İndexAlgoritması.AssemblyInfoInputs.cache
+/Users/cenkkiran/Desktop/C#/Pratikler/ClassLesson/İndexAlgoritması/obj/Debug/net8.0/İndexAlgoritması.AssemblyInfo.cs
+/Users/cenkkiran/Desktop/C#/Pratikler/ClassLesson/İndexAlgoritması/obj/Debug/net8.0/İndexAlgoritması.csproj.CoreCompileInputs.cache
+/Users/cenkkiran/Desktop/C#/Pratikler/ClassLesson/İndexAlgoritması/obj/Debug/net8.0/İndexAlgoritması.sourcelink.json
+/Users/cenkkiran/Desktop/C#/Pratikler/ClassLesson/İndexAlgoritması/obj/Debug/net8.0/İndexAlgoritması.dll
+/Users/cenkkiran/Desktop/C#/Pratikler/ClassLesson/İndexAlgoritması/obj/Debug/net8.0/refint/İndexAlgoritması.dll
+/Users/cenkkiran/Desktop/C#/Pratikler/ClassLesson/İndexAlgoritması/obj/Debug/net8.0/İndexAlgoritması.pdb
+/Users/cenkkiran/Desktop/C#/Pratikler/ClassLesson/İndexAlgoritması/obj/Debug/net8.0/İndexAlgoritması.genruntimeconfig.cache
+/Users/cenkkiran/Desktop/C#/Pratikler/ClassLesson/İndexAlgoritması/obj/Debug/net8.0/ref/İndexAlgoritması.dll
