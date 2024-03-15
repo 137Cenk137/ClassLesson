@@ -1,0 +1,15 @@
+/Users/cenkkiran/Desktop/C#/Pratikler/ClassLesson/TerstenYazdirma/bin/Debug/net8.0/TerstenYazdirma
+/Users/cenkkiran/Desktop/C#/Pratikler/ClassLesson/TerstenYazdirma/bin/Debug/net8.0/TerstenYazdirma.deps.json
+/Users/cenkkiran/Desktop/C#/Pratikler/ClassLesson/TerstenYazdirma/bin/Debug/net8.0/TerstenYazdirma.runtimeconfig.json
+/Users/cenkkiran/Desktop/C#/Pratikler/ClassLesson/TerstenYazdirma/bin/Debug/net8.0/TerstenYazdirma.dll
+/Users/cenkkiran/Desktop/C#/Pratikler/ClassLesson/TerstenYazdirma/bin/Debug/net8.0/TerstenYazdirma.pdb
+/Users/cenkkiran/Desktop/C#/Pratikler/ClassLesson/TerstenYazdirma/obj/Debug/net8.0/TerstenYazdirma.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cenkkiran/Desktop/C#/Pratikler/ClassLesson/TerstenYazdirma/obj/Debug/net8.0/TerstenYazdirma.AssemblyInfoInputs.cache
+/Users/cenkkiran/Desktop/C#/Pratikler/ClassLesson/TerstenYazdirma/obj/Debug/net8.0/TerstenYazdirma.AssemblyInfo.cs
+/Users/cenkkiran/Desktop/C#/Pratikler/ClassLesson/TerstenYazdirma/obj/Debug/net8.0/TerstenYazdirma.csproj.CoreCompileInputs.cache
+/Users/cenkkiran/Desktop/C#/Pratikler/ClassLesson/TerstenYazdirma/obj/Debug/net8.0/TerstenYazdirma.sourcelink.json
+/Users/cenkkiran/Desktop/C#/Pratikler/ClassLesson/TerstenYazdirma/obj/Debug/net8.0/TerstenYazdirma.dll
+/Users/cenkkiran/Desktop/C#/Pratikler/ClassLesson/TerstenYazdirma/obj/Debug/net8.0/refint/TerstenYazdirma.dll
+/Users/cenkkiran/Desktop/C#/Pratikler/ClassLesson/TerstenYazdirma/obj/Debug/net8.0/TerstenYazdirma.pdb
+/Users/cenkkiran/Desktop/C#/Pratikler/ClassLesson/TerstenYazdirma/obj/Debug/net8.0/TerstenYazdirma.genruntimeconfig.cache
+/Users/cenkkiran/Desktop/C#/Pratikler/ClassLesson/TerstenYazdirma/obj/Debug/net8.0/ref/TerstenYazdirma.dll
